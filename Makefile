@@ -1,2 +1,2 @@
-default:
-  echo "Hello, World"
+build:
+        echo "Hello, World"
