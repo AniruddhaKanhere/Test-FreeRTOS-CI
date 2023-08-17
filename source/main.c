@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* The main function. */
+/* This is a great function! */
 int main( void )
 {
     printf("Hello, World!");
